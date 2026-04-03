@@ -32,14 +32,14 @@
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
+
 🎯 What I'm Up To
 
-🔭 Working on startup security assessments & GRC documentation
 🌱 Learning Ethical Hacking, Penetration Testing, ISO 27001, NIST
 👯 Looking to collaborate on Penetration testing & Blue Team projects
 💬 Ask me about Cybersecurity, Phishing simulations, DDoS mitigation, GRC
 📫 Reach me at dulanjanyasasvi@gmail.com
-⚡ Fun fact: I think I can hack you before you finish reading this 😄
+
 
 
 🌐 Platforms
