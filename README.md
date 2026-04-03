@@ -3,48 +3,52 @@
 </h1>
 <h3 align="center">A passionate Cybersecurity student & GRC practitioner from Sri Lanka 🇱🇰</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghostyasas&label=Profile+Views&color=0e75b6&style=flat" alt="ghostyasas" />
+  <img src="https://komarev.com/ghpvc/?username=ghostyasas&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/SLIIT-Year%203%20Sem%202-blue?style=flat" />
   <img src="https://img.shields.io/badge/Age-23-green?style=flat" />
 </p>
+ 🖥️ Terminal
+ ghostyasas@kali:~$ whoami
+  Yasasvee Dulanjan — Cybersec Student @ SLIIT, Sri Lanka
 
-🖥️ Terminal
-bash$ whoami
-  GhostYasas — Cybersecurity Student @ SLIIT, Sri Lanka
-
-$ cat about.txt
+ghostyasas@kali:~$ cat about.txt
   Name    : Yasasvee Dulanjan (call me Yasas)
   Role    : Cybersec Student | GRC Practitioner | Pentester
   Study   : BSc IT @ SLIIT — Year 3, Semester 2
   Focus   : Blue Team · Ethical Hacking · GRC · Pentesting
 
-$ cat experience.txt
-  - 6 months internship (Security)
-  - Startup security assessments
-  - GRC documentation (ISO 27001, NIST)
+ghostyasas@kali:~$ cat experience.txt
+  ✓ 6 months security internship
+  ✓ Startup security assessments
+  ✓ GRC documentation (ISO 27001 · NIST)
 
-$ cat status.txt
+ghostyasas@kali:~$ cat status.txt
   Currently breaking things... ethically. 👾
+
+ghostyasas@kali:~$ █
+
 
 🛡️ Cybersecurity Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Penetration_Testing-Expert-FF6B35?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blue_Team-Advanced-1E90FF?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/GRC-ISO_27001_|_NIST-9B59B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OSINT-Intermediate-2ECC71?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Phishing_Simulation-Advanced-E74C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DDoS_Mitigation-Intermediate-F39C12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Penetration_Testing-FF6B35?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Blue_Team-1E90FF?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GRC_|_ISO_27001_|_NIST-9B59B6?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OSINT-2ECC71?style=for-the-badge&logo=searxng&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Phishing_Simulation-E74C3C?style=for-the-badge&logo=maildotru&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DDoS_Mitigation-F39C12?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
 🔧 Tools & Arsenal
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nessus-00C176?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 🎯 What I'm Up To
@@ -59,11 +63,11 @@ $ cat status.txt
 
 🌐 Platforms
 <p align="center">
-  <a href="https://tryhackme.com/p/GhostYasas" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <a href="https://tryhackme.com/p/SyZz" target="_blank">
+    <img src="https://img.shields.io/badge/-TryHackMe%20%7C%20SyZz-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
-  <a href="https://app.hackthebox.com/profile/GhostYasas" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <a href="https://portswigger.net/web-security/dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/-PortSwigger_Web_Academy-FF6B35?style=for-the-badge&logo=portswigger&logoColor=white" />
   </a>
 </p>
 
@@ -110,17 +114,17 @@ $ cat status.txt
 
 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yasasvee-dulanjan" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/yasasvee-dulanjan" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yasas_v_" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/yasas_v_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.gg/Yasas" target="blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.gg/Yasas" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:dulanjanyasasvi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
