@@ -8,26 +8,13 @@
   <img src="https://img.shields.io/badge/SLIIT-Year%203%20Sem%202-blue?style=flat" />
   <img src="https://img.shields.io/badge/Age-23-green?style=flat" />
 </p>
- 🖥️ Terminal
- ghostyasas@kali:~$ whoami
-  Yasasvee Dulanjan — Cybersec Student @ SLIIT, Sri Lanka
+## 🟢 TryHackMe
 
-ghostyasas@kali:~$ cat about.txt
-  Name    : Yasasvee Dulanjan (call me Yasas)
-  Role    : Cybersec Student | GRC Practitioner | Pentester
-  Study   : BSc IT @ SLIIT — Year 3, Semester 2
-  Focus   : Blue Team · Ethical Hacking · GRC · Pentesting
-
-ghostyasas@kali:~$ cat experience.txt
-  ✓ 6 months security internship
-  ✓ Startup security assessments
-  ✓ GRC documentation (ISO 27001 · NIST)
-
-ghostyasas@kali:~$ cat status.txt
-  Currently breaking things... ethically. 👾
-
-ghostyasas@kali:~$ █
-
+<p align="center">
+  <a href="https://tryhackme.com/p/SyZz" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-SyZz-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
 
 🛡️ Cybersecurity Skills
 <p align="center">
