@@ -1,0 +1,42 @@
+<svg width="580" height="220" viewBox="0 0 580 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="580" height="220" rx="12" fill="#0a0a0f" stroke="#7c3aed" stroke-width="1.5"/>
+
+  <!-- Header -->
+  <text x="24" y="34" font-family="monospace" font-size="12" fill="#a78bfa" letter-spacing="3">GHOSTYASAS · GITHUB STATS</text>
+  <circle cx="542" cy="28" r="5" fill="#7c3aed"/>
+  <circle cx="554" cy="28" r="5" fill="#7c3aed" opacity="0.5"/>
+  <circle cx="566" cy="28" r="5" fill="#7c3aed" opacity="0.2"/>
+  <line x1="24" y1="46" x2="556" y2="46" stroke="#3b1d8c" stroke-width="1"/>
+
+  <!-- Stat boxes -->
+  <!-- Commits -->
+  <rect x="24" y="58" width="166" height="80" rx="8" fill="#0f0a1e" stroke="#3b1d8c" stroke-width="1"/>
+  <text x="107" y="105" font-family="monospace" font-size="28" font-weight="700" fill="#a78bfa" letter-spacing="2" text-anchor="middle">14</text>
+  <text x="107" y="126" font-family="monospace" font-size="9" fill="#6d28d9" letter-spacing="2" text-anchor="middle">COMMITS</text>
+
+  <!-- Streak (highlighted) -->
+  <rect x="206" y="58" width="168" height="80" rx="8" fill="#0f0a1e" stroke="#7c3aed" stroke-width="1.5"/>
+  <text x="290" y="105" font-family="monospace" font-size="28" font-weight="700" fill="#c4b5fd" letter-spacing="2" text-anchor="middle">01</text>
+  <text x="290" y="126" font-family="monospace" font-size="9" fill="#a78bfa" letter-spacing="2" text-anchor="middle">STREAK</text>
+
+  <!-- Best -->
+  <rect x="390" y="58" width="166" height="80" rx="8" fill="#0f0a1e" stroke="#3b1d8c" stroke-width="1"/>
+  <text x="473" y="105" font-family="monospace" font-size="28" font-weight="700" fill="#a78bfa" letter-spacing="2" text-anchor="middle">02</text>
+  <text x="473" y="126" font-family="monospace" font-size="9" fill="#6d28d9" letter-spacing="2" text-anchor="middle">BEST</text>
+
+  <!-- Bar 1: Commit Progress -->
+  <text x="24" y="158" font-family="monospace" font-size="9" fill="#6d28d9" letter-spacing="1">COMMIT PROGRESS</text>
+  <text x="556" y="158" font-family="monospace" font-size="9" fill="#6d28d9" letter-spacing="1" text-anchor="end">14 / ~50</text>
+  <rect x="24" y="163" width="532" height="4" rx="2" fill="#1a0f2e"/>
+  <rect x="24" y="163" width="149" height="4" rx="2" fill="#7c3aed"/>
+
+  <!-- Bar 2: Streak Power -->
+  <text x="24" y="182" font-family="monospace" font-size="9" fill="#6d28d9" letter-spacing="1">STREAK POWER</text>
+  <text x="556" y="182" font-family="monospace" font-size="9" fill="#6d28d9" letter-spacing="1" text-anchor="end">1 / 2 days</text>
+  <rect x="24" y="187" width="532" height="4" rx="2" fill="#1a0f2e"/>
+  <rect x="24" y="187" width="266" height="4" rx="2" fill="#7c3aed"/>
+
+  <!-- Footer -->
+  <line x1="24" y1="200" x2="556" y2="200" stroke="#1a0f2e" stroke-width="1"/>
+  <text x="290" y="214" font-family="monospace" font-size="9" fill="#3b1d8c" letter-spacing="2" text-anchor="middle">ACTIVE SINCE APR 28, 2024 · SLIIT CYBERSECURITY</text>
+</svg>
