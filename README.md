@@ -8,13 +8,7 @@
   <img src="https://img.shields.io/badge/SLIIT-Year%203%20Sem%202-blue?style=flat" />
   <img src="https://img.shields.io/badge/Age-23-green?style=flat" />
 </p>
-## 🟢 TryHackMe
 
-<p align="center">
-  <a href="https://tryhackme.com/p/SyZz" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-SyZz-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-</p>
 
 🛡️ Cybersecurity Skills
 <p align="center">
@@ -75,16 +69,26 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/></a>
 </p>
+🏅 TryHackMe Badges
+<br></br>
+
+<p align="center">
+  
+  <img src="./assets/badge-linux.png" width="250" title="cat linux.txt"/>
+  <img src="./assets/badge-networking.png" width="250" title="Networking Nerd"/>
+  <img src="./assets/badge-webbed.png" width="250" title="Webbed"/>
+  <img src="./assets/badge-www.png" width="250" title="World Wide Web"/>
+  <img src="./assets/badge-shield.png" width="250" title="Shield Apprentice"/>
+  <img src="./assets/badge-pentesting.png" width="250" title="Pentesting Principles"/>
+  <img src="./assets/badge-cyberready.png" width="250" title="Cyber Ready"/>
+  <img src="./assets/badge-raffle.png" width="250" title="Raffle Royalty"/>
+  <img src="./assets/badge-sword.png" width="250" title="Sword Apprentice"/>
+  <img src="./assets/badge-owasp.png" width="250" title="OWASP Top 10"/>
+</p>
 
 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghostyasas&show_icons=true&theme=github_dark&locale=en" alt="ghostyasas" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghostyasas&theme=github-dark-blue" alt="ghostyasas" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostyasas&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="ghostyasas" />
+  <img src="./github-stats-neon.svg" alt="GitHub Stats" />
 </p>
 
 🐍 Contribution Snake
