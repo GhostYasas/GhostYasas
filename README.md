@@ -84,6 +84,7 @@
   <img src="./assets/badge-raffle.png" width="250" title="Raffle Royalty"/>
   <img src="./assets/badge-sword.png" width="250" title="Sword Apprentice"/>
   <img src="./assets/badge-owasp.png" width="250" title="OWASP Top 10"/>
+  <img src="./assets/AcademicianHTB.png" width="250" title="Academician"/>
 </p>
 
 📊 GitHub Stats
