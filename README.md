@@ -94,6 +94,105 @@
   <img src="./assets/InitiateBLUETEAM.png" width="250" title="Initiate"/>
 </p>
 
+<h2 align="center" style="color: #9fef00; text-shadow: 0 0 10px rgba(159, 239, 0, 0.5); font-family: monospace;">
+  🛡️ Hack The Box Badge Collection 🛡️
+</h2>
+
+<hr style="border: 1px solid #9fef00; box-shadow: 0 0 10px #9fef00;">
+
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 0 20px rgba(159, 239, 0, 0.1);">
+  <table align="center" border="0" cellspacing="15">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/cat-linux-txt.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="cat linux.txt"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/networking-nerd.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Networking Nerd"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/webbed.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Webbed"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/world-wide-web.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="World Wide Web"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/shield-apprentice.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Shield Apprentice"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/pentesting-principles.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Pentesting Principles"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/academicianhtb.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Academician HTB"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/challenger-iblueteam.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Challenger iBlueTeam"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/core-analyzerhtb.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Core Analyzer HTB"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/cyber-ready.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Cyber Ready"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/first-alert-closed.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="First Alert Closed"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/first-four.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="First Four"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/first-scenario-completed.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="First Scenario Completed"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/gold-league.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Gold League"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/initiateblueteam.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Initiate BlueTeam"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/light-in-the-darkhtb.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Light in the Dark HTB"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/malware-analysis-fundamentalscyberdefend-2.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Malware Analysis Fundamentals"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/net-initiatehtb.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Net Initiate HTB"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/network-fundamentalscyberdefend-2.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Network Fundamentals"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/noscoperce.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="No Scope RC"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/owasp-top-10.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="OWASP Top 10"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/raffle-royalty.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Raffle Royalty"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/session-held.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Session Held"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="#"><img src="./badges/sword-apprentice.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Sword Apprentice"/></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 📊 GitHub Stats
 <p align="center">
   <img src="./github-stats-neon.svg" alt="GitHub Stats" />
