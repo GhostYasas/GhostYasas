@@ -1,46 +1,36 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yasas;Cybersecurity+Student+%40+SLIIT;GRC+Practitioner;Pentester+%7C+Blue+Teamer;Ethical+Hacker+in+the+Making" alt="Typing SVG" />
-</h1>
-<h3 align="center">A passionate Cybersecurity student & GRC practitioner from Sri Lanka 🇱🇰</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghostyasas&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/SLIIT-Year%203%20Sem%202-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Age-23-green?style=flat" />
-</p>
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=Hello+I'm+Yasasvee+%7C+Syzz;CyberSecurity+Student+%40+SLIIT;Like+To+Do+Scam" alt="Typing SVG" />
+  </h1>
+</div>
+<div align="center">
+  
+  
+
+  <!-- The Hacker Vibe Subtitle -->
+  <p><b>A cybersecurity student by day, and a threat actor in training by night. 🔒</b></p>
+
+  <!-- Stat Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat-square&logo=shield" alt="Focus" />
+    <img src="https://img.shields.io/badge/SLIIT-Year4__Sem_2-blue?style=flat-square" alt="SLIIT" />
+    <img src="https://img.shields.io/badge/Age-23-green?style=flat-square" alt="Age" />
+  </p>
+
+</div>
 
 
 🛡️ Cybersecurity Skills
 <p align="center">
   <img src="https://img.shields.io/badge/-Penetration_Testing-FF6B35?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Blue_Team-1E90FF?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GRC_|_ISO_27001_|_NIST-9B59B6?style=for-the-badge&logo=checkmarx&logoColor=white" />
   <img src="https://img.shields.io/badge/-OSINT-2ECC71?style=for-the-badge&logo=searxng&logoColor=white" />
   <img src="https://img.shields.io/badge/-Phishing_Simulation-E74C3C?style=for-the-badge&logo=maildotru&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DDoS_Mitigation-F39C12?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</p>
-
-🔧 Tools & Arsenal
-<p align="center">
-  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nessus-00C176?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 
-🎯 What I'm Up To
-
-🌱 Learning Ethical Hacking, Penetration Testing, ISO 27001, NIST
-👯 Looking to collaborate on Penetration testing & Blue Team projects
-💬 Ask me about Cybersecurity, Phishing simulations, DDoS mitigation, GRC
-📫 Reach me at dulanjanyasasvi@gmail.com
 
 
+<!--
 
 🌐 Platforms
 <p align="center">
@@ -51,8 +41,8 @@
     <img src="https://img.shields.io/badge/-PortSwigger_Web_Academy-FF6B35?style=for-the-badge&logo=portswigger&logoColor=white" />
   </a>
 </p>
-
-
+//
+-->
 
 💻 Languages and Tools
 <p align="center">
@@ -69,6 +59,8 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/></a>
 </p>
+
+<!--
 🏅 Badges
 <br></br>
 
@@ -93,134 +85,112 @@
   <img src="./assets/Challenger IBLUETEAM.png" width="250" title="Challenger I"/>
   <img src="./assets/InitiateBLUETEAM.png" width="250" title="Initiate"/>
 </p>
+-->
+<br>
+<div align="center">
+  <br>
+  <!-- Neon Green Header with Green Shields perfectly aligned -->
+  <h2>
+    <img src="https://img.icons8.com/fluency-systems-filled/48/9fef00/shield.png" width="30" style="vertical-align: middle; margin-right: 10px;" /> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=9FEF00&center=true&vCenter=true&width=220&lines=MY+BADGES" alt="MY BADGES Header" style="vertical-align: middle;" />
+    <img src="https://img.icons8.com/fluency-systems-filled/48/9fef00/shield.png" width="30" style="vertical-align: middle; margin-left: 10px;" />
+  </h2>
+  <br>
 
-<h2 align="center" style="color: #9fef00; text-shadow: 0 0 10px rgba(159, 239, 0, 0.5); font-family: monospace;">
-  🛡️ Hack The Box Badge Collection 🛡️
-</h2>
-
-<hr style="border: 1px solid #9fef00; box-shadow: 0 0 10px #9fef00;">
-
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 0 20px rgba(159, 239, 0, 0.1);">
-  <table align="center" border="0" cellspacing="15">
+  <table align="center" border="0" cellspacing="8" cellpadding="0">
+    <!-- ROW 1 -->
     <tr>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/cat-linux-txt.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="cat linux.txt"/></a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/networking-nerd.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Networking Nerd"/></a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/webbed.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Webbed"/></a>
-      </td>
+      <td align="center" valign="middle"><img src="./badges/cat-linux-txt.png" width="170" style="border-radius: 8px;" title="cat linux.txt"/></td>
+      <td align="center" valign="middle"><img src="./badges/networking-nerd.png" width="170" style="border-radius: 8px;" title="Networking Nerd"/></td>
+      <td align="center" valign="middle"><img src="./badges/webbed.png" width="170" style="border-radius: 8px;" title="Webbed"/></td>
+      <td align="center" valign="middle"><img src="./badges/world-wide-web.png" width="170" style="border-radius: 8px;" title="World Wide Web"/></td>
+      <td align="center" valign="middle"><img src="./badges/shield-apprentice.png" width="170" style="border-radius: 8px;" title="Shield Apprentice"/></td>
     </tr>
+    <!-- ROW 2 -->
     <tr>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/world-wide-web.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="World Wide Web"/></a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/shield-apprentice.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Shield Apprentice"/></a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/pentesting-principles.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Pentesting Principles"/></a>
-      </td>
+      <td align="center" valign="middle"><img src="./badges/pentesting-principles.png" width="170" style="border-radius: 8px;" title="Pentesting Principles"/></td>
+      <td align="center" valign="middle"><img src="./badges/academicianhtb.png" width="170" style="border-radius: 8px;" title="Academician HTB"/></td>
+      <td align="center" valign="middle"><img src="./badges/challenger-iblueteam.png" width="170" style="border-radius: 8px;" title="Challenger iBlueTeam"/></td>
+      <td align="center" valign="middle"><img src="./badges/core-analyzerhtb.png" width="170" style="border-radius: 8px;" title="Core Analyzer HTB"/></td>
+      <td align="center" valign="middle"><img src="./badges/cyber-ready.png" width="170" style="border-radius: 8px;" title="Cyber Ready"/></td>
     </tr>
+    <!-- ROW 3 -->
     <tr>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/academicianhtb.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Academician HTB"/></a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/challenger-iblueteam.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Challenger iBlueTeam"/></a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/core-analyzerhtb.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Core Analyzer HTB"/></a>
-      </td>
+      <td align="center" valign="middle"><img src="./badges/first-alert-closed.png" width="170" style="border-radius: 8px;" title="First Alert Closed"/></td>
+      <td align="center" valign="middle"><img src="./badges/first-four.png" width="170" style="border-radius: 8px;" title="First Four"/></td>
+      <td align="center" valign="middle"><img src="./badges/first-scenario-completed.png" width="170" style="border-radius: 8px;" title="First Scenario Completed"/></td>
+      <td align="center" valign="middle"><img src="./badges/gold-league.png" width="170" style="border-radius: 8px;" title="Gold League"/></td>
+      <td align="center" valign="middle"><img src="./badges/initiateblueteam.png" width="170" style="border-radius: 8px;" title="Initiate BlueTeam"/></td>
     </tr>
+    <!-- ROW 4 -->
     <tr>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/cyber-ready.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Cyber Ready"/></a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/first-alert-closed.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="First Alert Closed"/></a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/first-four.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="First Four"/></a>
-      </td>
+      <td align="center" valign="middle"><img src="./badges/light-in-the-darkhtb.png" width="170" style="border-radius: 8px;" title="Light in the Dark HTB"/></td>
+      <td align="center" valign="middle"><img src="./badges/malware-analysis-fundamentalscyberdefend-2.png" width="170" style="border-radius: 8px;" title="Malware Analysis Fundamentals"/></td>
+      <td align="center" valign="middle"><img src="./badges/net-initiatehtb.png" width="170" style="border-radius: 8px;" title="Net Initiate HTB"/></td>
+      <td align="center" valign="middle"><img src="./badges/network-fundamentalscyberdefend-2.png" width="170" style="border-radius: 8px;" title="Network Fundamentals"/></td>
+      <td align="center" valign="middle"><img src="./badges/noscoperce.png" width="170" style="border-radius: 8px;" title="No Scope RC"/></td>
     </tr>
+    <!-- ROW 5 (4 badges perfectly centered, no borders) -->
     <tr>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/first-scenario-completed.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="First Scenario Completed"/></a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/gold-league.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Gold League"/></a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/initiateblueteam.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Initiate BlueTeam"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/light-in-the-darkhtb.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Light in the Dark HTB"/></a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/malware-analysis-fundamentalscyberdefend-2.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Malware Analysis Fundamentals"/></a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/net-initiatehtb.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Net Initiate HTB"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/network-fundamentalscyberdefend-2.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Network Fundamentals"/></a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/noscoperce.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="No Scope RC"/></a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/owasp-top-10.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="OWASP Top 10"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/raffle-royalty.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Raffle Royalty"/></a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/session-held.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Session Held"/></a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="#"><img src="./badges/sword-apprentice.png" width="280" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 0px 20px rgba(159, 239, 0, 0.8)'; this.style.borderColor='#9fef00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 15px rgba(0, 0, 0, 0.5)'; this.style.borderColor='#30363d';" title="Sword Apprentice"/></a>
+      <td colspan="5" align="center" valign="middle">
+        <table border="0" cellspacing="8" cellpadding="0">
+          <tr>
+            <td align="center" valign="middle"><img src="./badges/owasp-top-10.png" width="170" style="border-radius: 8px;" title="OWASP Top 10"/></td>
+            <td align="center" valign="middle"><img src="./badges/raffle-royalty.png" width="170" style="border-radius: 8px;" title="Raffle Royalty"/></td>
+            <td align="center" valign="middle"><img src="./badges/session-held.png" width="170" style="border-radius: 8px;" title="Session Held"/></td>
+            <td align="center" valign="middle"><img src="./badges/sword-apprentice.png" width="170" style="border-radius: 8px;" title="Sword Apprentice"/></td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
 </div>
 
-📊 GitHub Stats
+
+
+
 <p align="center">
-  <img src="./github-stats-neon.svg" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhostYasas&bg_color=0d1117&color=9fef00&line=9fef00&point=ffffff&area=true&hide_border=true" alt="GhostYasas Activity Graph" width="100%" />
 </p>
 
-🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhostYasas/GhostYasas/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GhostYasas/GhostYasas/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/GhostYasas/GhostYasas/output/github-snake.svg" />
-</picture>
 
-🤝 Connect with Me
+
+<!-- Neon Green Header -->
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=9FEF00&center=true&vCenter=true&width=400&lines=%F0%9F%8C%90+Connect+With+Me" alt="Connect With Me Header" />
+  </h2>
+</div>
+
 <p align="center">
-  <a href="https://linkedin.com/in/yasasvee-dulanjan" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <!-- LinkedIn (With Icon) -->
+  <a href="https://www.linkedin.com/in/yasasvee-dulanjan-2b84b7435/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
+  
+  <!-- TryHackMe (Red Icon, Neon Green Text) -->
+  <a href="https://tryhackme.com/p/SyZz" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-9FEF00?style=for-the-badge&logo=tryhackme&logoColor=red&labelColor=212121" alt="TryHackMe" />
+  </a>
+  
+  <!-- Instagram -->
   <a href="https://instagram.com/yasas_v_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" alt="Instagram" />
   </a>
+  
+  <!-- Discord -->
   <a href="https://discord.gg/Yasas" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=4752C4" alt="Discord" />
   </a>
+  
+  <!-- Gmail -->
   <a href="mailto:dulanjanyasasvi@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
+<div align="center">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=%22Security+is+not+a+product%2C+but+a+process.%22;%22Hackers+are+the+immune+system+of+the+internet.%22;%22The+only+truly+secure+system+is+one+that+is+powered+off.%22" alt="Typing Quote" />
+  <br>
+</div>
