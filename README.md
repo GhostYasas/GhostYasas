@@ -88,7 +88,7 @@
   <img src="./assets/Light in the darkHTB.png" width="250" title="Light in the dark"/>
   <img src="./assets/Core AnalyzerHTB.png" width="250" title="Core Analyzer"/>
   <img src="./assets/Net InitiateHTB.png" width="250" title="Net Initiate"/>
-  <img src="./assets/Malware Analysis FundamentalsCYBERDEFEND.png" width="250" title="Malware Analysis Fundamentals"/>
+  <img src="./assets/Malware Analysis FundamentalsCYBERDEFEND (2).png" width="250" title="Malware Analysis Fundamentals"/>
   <img src="./assets/Network FundamentalsCYBERDEFEND.png" width="250" title="Network Fundamentals"/>
   <img src="./assets/Challenger IBLUETEAM.png" width="250" title="Challenger I"/>
   <img src="./assets/InitiateBLUETEAM.png" width="250" title="Initiate"/>
